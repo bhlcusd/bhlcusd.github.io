@@ -1,2 +1,2 @@
 # bhlcusd.github.io
-A website with a personal touch.
+> A website with a personal touch.
